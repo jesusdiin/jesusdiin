@@ -15,11 +15,18 @@
 
   Hi, I'm Jesús Hernández.... Welcome to my profile
 
+---
+### Languages and tools:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,js,html,css,bootstrap,pug,react,nodejs,nginx,mongo,mysql,vscode,python,raspberrypi,git,github" />
+  </a>
+</p>
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 My GitHub Stats:
 
 <a align="center" href="#">
     <p align="center">
