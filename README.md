@@ -18,42 +18,34 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
-Hi, I'm Jesús Hernández.... Welcome to my profile
+<h1 align='center'>
+	Hi, I'm Jesús Hernández!
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="" height="35" />
+</h1>
 
+<div style="text-align: justify;">
+	<img align='left' width='200px' src='./img/jesus_github.jpg' />
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="20" height="20" /> I'm from Oaxaca México 🇲🇽
+	<br>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="20" height="20" /> I am currently working as a freelance web developer
+	<br>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" /> I am currently learning English and React-native
+	<br>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="20" height="20" /> I am looking to collaborate in any interesting project
+	<br>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="20" height="20" /> I am looking for help with hexagonal architecture or clean code, since I would like to gain experience in it
+	<br>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Soon I will make a blog
+	<br>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Taco.png" alt="Taco" width="23" height="20" /> I like tacos...
+	<br>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> You can visit my portfolio at <a href='http://www.jesushernandez.link'>jesushernandez.link</a>
+<div>
 
-<table style='width:100%; border:hidden;'>
-		<tbody>
-				<tr style='border: hidden'>
-						<td style='width:70%; border: hidden;'>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="20" height="20" /> I'm from Oaxaca México 🇲🇽
-							<br>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="20" height="20" /> I am currently working as a freelance web developer
-							<br>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" /> I am currently learning English and React-native
-							<br>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="20" height="20" /> I am looking to collaborate in any interesting project
-							<br>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="20" height="20" /> I am looking for help with hexagonal architecture or clean code, since I would like to gain experience in it
-							<br>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Soon I will make a blog
-							<br>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Taco.png" alt="Taco" width="23" height="20" /> I like tacos...
-							<br>
-							<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="20" height="20" /> You can visit my portfolio at <a href='http://www.jesushernandez.link'>www.jesushernandez.link</a>
-						</td>
-						<td align='right'  style='width:30%'>
-							<img width='100%' src='./img/jesus_github.jpg' />
-						</td>
-				</tr>
-		</tbody>
-</table>
-
-
-
-
+<br>
 
 ---
-### Languages and tools:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages and tools:
 
 <p align="center">
 	<a href="https://skillicons.dev">
@@ -63,7 +55,7 @@ Hi, I'm Jesús Hernández.... Welcome to my profile
 
 ---
 
-### 📈 My GitHub Stats:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> My GitHub Stats:
 
 <a align="center" href="#">
 		<p align="center">
