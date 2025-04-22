@@ -10,7 +10,6 @@
 
 
 
-![VISITAS](https://visitor-badge.glitch.me/badge?page_id=jesusdiin)
 ![Faloows](https://img.shields.io/github/followers/jesusdiin?style=social)
 [![Instagram](https://img.shields.io/badge/@jesus.diin-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/jesus.diin)](https://instagram.com/jesus.diin)
 [![Instagram](https://img.shields.io/badge/@JesusDiin-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/JesusDiin)](https://twitter.com/JesusDiin)
@@ -39,7 +38,7 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Taco.png" alt="Taco" width="23" height="20" /> I like tacos...
 	<br>
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> You can visit my portfolio at <a href='http://www.jesushernandez.link'>jesushernandez.link</a>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> You can visit my portfolio at <a href='[http://www.jesushernandez.link](https://jesus.diino.mx/)'>jesus.diino.mx</a>
 <div>
 
 <br>
