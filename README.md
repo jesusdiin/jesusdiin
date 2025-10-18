@@ -12,7 +12,8 @@
 
 ![Faloows](https://img.shields.io/github/followers/jesusdiin?style=social)
 [![Instagram](https://img.shields.io/badge/@jesus.diin-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/jesus.diin)](https://instagram.com/jesus.diin)
-[![Instagram](https://img.shields.io/badge/@JesusDiin-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/JesusDiin)](https://twitter.com/JesusDiin)
+[![X](https://img.shields.io/badge/@JesusDiin-00ACEE?style=flat-square&labelColor=00ACEE&logo=x&logoColor=white&link=https://x.com/JesusDiin)](https://x.com/JesusDiin)
+[![wakatime](https://wakatime.com/badge/user/9fbe78ea-ca54-48ff-835a-db696fa3919e.svg?style=flat-square&labelColor=00ACEC)](https://wakatime.com/@9fbe78ea-ca54-48ff-835a-db696fa3919e)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
@@ -26,9 +27,9 @@
 	<img align='left' width='200px' src='./img/jesus_github.jpg' />
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="20" height="20" /> I'm from Oaxaca México 🇲🇽
 	<br>
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="20" height="20" /> I am currently working as a freelance web developer
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="20" height="20" /> I am currently working as a web developer
 	<br>
-	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" /> I am currently learning English and React-native
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="20" height="20" /> I am currently learning English 
 	<br>
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="20" height="20" /> I am looking to collaborate in any interesting project
 	<br>
@@ -61,6 +62,12 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdiin&title_color=00B13F&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="my github stats" width="300"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jesusdiin&title_color=00B13F&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" alt="languages" height="165">
 		</p>
 </a>
+
+<div align="center">
+    <a href="https://wakatime.com/@jesusdiin" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jesusdiin&layout=default&title_color=00B13F&text_color=ffffff&icon_color=61dafb&bg_color=20232a" alt="WakaTime">
+    </a>
+</div>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=...&fontSize=30)
