@@ -63,11 +63,7 @@
 		</p>
 </a>
 
-<div align="center">
-    <a href="https://wakatime.com/@jesusdiin" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jesusdiin&layout=default&title_color=00B13F&text_color=ffffff&icon_color=61dafb&bg_color=20232a" alt="WakaTime">
-    </a>
-</div>
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=...&fontSize=30)
